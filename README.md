@@ -132,26 +132,17 @@ const hussein = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Al-hussein31&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&ring_color=00FFAA&text_color=ffffff&hide=contribs&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Al-hussein31&show_icons=true&hide_border=true&theme=default&title_color=0969DA&icon_color=0969DA&ring_color=0969DA&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Al-hussein31&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&ring_color=00FFAA&text_color=ffffff&hide=contribs&count_private=true" alt="Hussein's GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-hussein31&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00FFAA&text_color=ffffff&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-hussein31&layout=compact&hide_border=true&theme=default&title_color=0969DA&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-hussein31&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00FFAA&text_color=ffffff&langs_count=8" alt="Top Languages" />
-</picture>
+<!-- Stats Card — using anuraghazra's self-hosted instance (most reliable) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Al-hussein31&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff&count_private=true&include_all_commits=true" alt="Hussein's GitHub Stats" />
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-hussein31&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00FFAA&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Al-hussein31&hide_border=true&theme=github-dark-blue&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&sideLabels=ffffff&dates=888888" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Al-hussein31&hide_border=true&theme=default&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
-  <img src="https://streak-stats.demolab.com?user=Al-hussein31&hide_border=true&theme=github-dark-blue&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
-</picture>
+<!-- Streak — most reliable streak service -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Al-hussein31&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&sideLabels=ffffff&dates=888888&stroke=0D1117&sideNums=ffffff&currStreakNum=00FFAA" alt="GitHub Streak" />
 
 </div>
 

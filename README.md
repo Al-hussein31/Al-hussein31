@@ -120,7 +120,7 @@ const hussein = {
 | **Cloud** | AWS · GCP · Vercel |
 | **Database** | PostgreSQL · Prisma |
 | **Editor** | NeoVim + Ghostty |
-| **OS** | Linux |
+| **OS** | macOS, Linux |
 
 <sup>* actively learning</sup>
 
@@ -132,17 +132,32 @@ const hussein = {
 
 <div align="center">
 
-<!-- Stats Card — using anuraghazra's self-hosted instance (most reliable) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Al-hussein31&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff&count_private=true&include_all_commits=true" alt="Hussein's GitHub Stats" />
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-hussein31&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00FFAA&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+<!-- GitHub Stats Badges — 100% uptime, powered by shields.io + GitHub API directly -->
+![Followers](https://img.shields.io/github/followers/Al-hussein31?style=for-the-badge&color=00FFAA&labelColor=0D1117&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/Al-hussein31?style=for-the-badge&color=00FFAA&labelColor=0D1117&logo=github&label=Total%20Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Al-hussein31&query=public_repos&style=for-the-badge&color=00FFAA&labelColor=0D1117&logo=github&label=Repos)
 
 </div>
 
 <div align="center">
 
-<!-- Streak — most reliable streak service -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Al-hussein31&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&sideLabels=ffffff&dates=888888&stroke=0D1117&sideNums=ffffff&currStreakNum=00FFAA" alt="GitHub Streak" />
+<!-- Profile Summary Cards — separate service, much more reliable than readme-stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Al-hussein31&theme=github_dark" width="100%" alt="Profile Summary" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Al-hussein31&theme=github_dark" width="32%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Al-hussein31&theme=github_dark" width="32%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Al-hussein31&theme=github_dark" width="32%" alt="Stats" />
+
+</div>
+
+<div align="center">
+
+<!-- Streak — demolab (the OG, most stable) -->
+<img src="https://streak-stats.demolab.com?user=Al-hussein31&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=00FFAA" alt="GitHub Streak" />
 
 </div>
 

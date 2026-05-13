@@ -14,9 +14,9 @@
 ██║  ██║╚██████╔╝███████║███████║██║██║ ╚████║
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝
 ```
-<h1 align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&random=false&width=500&lines=Hussein+Al+hsein;Builder.+Dev.+Founder.;NeoVim+%2B+Ghostty;TypeScript+%2B+Go+%2B+Rust"> <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=0969DA&center=true&vCenter=true&random=false&width=500&lines=Hussein+Al+hsein;Builder.+Dev.+Founder.;NeoVim+%2B+Ghostty;TypeScript+%2B+Go+%2B+Rust"> <img alt="Typing SVG"> </picture> </h1>
+<h1 align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&random=false&width=500&lines=Hussein+Al+hsein;Builder.+Dev.+Founder.;NeoVim+%2B+Ghostty;TypeScript+%2B+Go+%2B+Rust"> <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=0969DA&center=true&vCenter=true&random=false&width=500&lines=Hussein+Alhussein;Builder.+Dev.+Founder.;NeoVim+%2B+Ghostty;TypeScript+%2B+Go+%2B+Rust"> <img alt="Typing SVG"> </picture> </h1>
 🚀 Building
-text
+```text
 ┌─────────────────────────────────────────────────────────────────┐
 │  ███████╗ ██████╗ ██████╗  ██████╗ ██████╗  ██████╗ ██╗    ██╗  │
 │  ██╔════╝██╔═══██╗██╔══██╗██╔════╝ ██╔══██╗██╔════╝ ██║    ██║  │
@@ -27,6 +27,7 @@ text
 │                                                                 │
 │                    where code meets business                    │
 └─────────────────────────────────────────────────────────────────┘
+```
 Currently: Founder @ ForgeGrowth • building tools that help businesses scale
 
 Editor: NeoVim + Ghostty terminal • dotfiles are here (coming soon)

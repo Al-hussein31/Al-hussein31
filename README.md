@@ -205,13 +205,12 @@ const hussein = {
 
 ---
 
-## `> blog --subscribe`
+## `> Porfolio`
 
-> I write about building software, scaling businesses, and the tools I use.
+ **[hussein](https://hussein.forgegrowth.ng)**
 
-📝 **[husseinyh.me](https://husseinyh.me)** — coming soon
 
-Subscribe. No spam. Just code, systems, and growth.
+ Just code, systems, and growth.
 
 ---
 
